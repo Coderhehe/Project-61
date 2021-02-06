@@ -75,3 +75,7 @@ h6 {
     position: fixed;
     z-index: 10;
 }
+
+.contact_1 {
+    display: inline;
+}
