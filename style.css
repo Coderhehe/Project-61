@@ -76,6 +76,11 @@ h6 {
     z-index: 10;
 }
 
-.contact_1 {
+.contact_1 h4 {
     display: inline;
+}
+
+
+.contact_1 a {
+    text-decoration: none;
 }
